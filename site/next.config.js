@@ -2,11 +2,11 @@
 
 const nextConfig = {
   env: {
-    name: 'Kasm Technologies',
-    description: 'The official store for Kasm supported workspaces.',
+    name: 'DataLink Technologies',
+    description: 'Workspaces For DataLink LTD.',
     icon: '/img/logo.svg',
-    listUrl: 'https://registry.kasmweb.com/',
-    contactUrl: 'https://kasmweb.com/support',
+    listUrl: 'https://github.com/benleo/kasm-registry/',
+    contactUrl: 'https://github.com/benleo/kasm-registry/issues',
   },
   reactStrictMode: true,
   swcMinify: true,
