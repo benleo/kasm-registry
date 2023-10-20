@@ -5,7 +5,7 @@ const nextConfig = {
     name: 'DataLink Technologies',
     description: 'Workspaces For DataLink LTD.',
     icon: 'https://github.com/benleo/kasm-registry/blob/1.0/logo.png',
-    listUrl: 'https://github.com/benleo/kasm-registry/',
+    listUrl: 'https://benleo.github.io/kasm-registry/1.0/',
     contactUrl: 'https://github.com/benleo/kasm-registry/issues',
   },
   reactStrictMode: true,
